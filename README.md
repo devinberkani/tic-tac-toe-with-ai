@@ -10,16 +10,16 @@ This game has the option for a user to play a computer, two users to play each o
 
 ## Instructions
 
-To begin, simply type 3 commands separated by spaces:
+To begin, simply type **3 commands** separated by spaces:
 
 First command is always "start."<br/>
 Second command is either "user" for a human player, OR the level of ai difficulty you want to play.<br/>
 Third command is either "user" for a human player, OR the level of ai difficulty you want to play (same as second command, order only depends on who you want to go first).
 
-Example #1: start user user - *two users playing each other*<br/>
-Example #2: start user easy - *a user (player 1) playing an easy level ai (player two)*<br/>
-Example #3: start medium user - *a medium level ai (player 1) playing a user (player 2)*<br/>
-Example #4: start hard hard - *two hard level ai's playing each other*
+**Example #1:** start user user - *two users playing each other*<br/>
+**Example #2:** start user easy - *a user (player 1) playing an easy level ai (player two)*<br/>
+**Example #3:** start medium user - *a medium level ai (player 1) playing a user (player 2)*<br/>
+**Example #4:** start hard hard - *two hard level ai's playing each other*
 
 To end, simply type "exit"
 
