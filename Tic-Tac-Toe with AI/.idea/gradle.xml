@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Cinema" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/About recursion" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Fix the method to print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/K-combination" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Select statement" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
